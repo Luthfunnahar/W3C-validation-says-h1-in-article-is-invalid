@@ -1,0 +1,11 @@
+<h1> Tag must be used as top-level heading, i.e, as page heading/tittle. Here you are the W3C Reference
+
+That's is because SEO purposes; ensuring content is formatted in the best way possible to aid search engine indexing; and because technical correctness; 
+ensuring that markup is written in accordance with the appropriate W3C spec.
+
+Depending on the strucutre of your page, you can use more than one perhaps, but it's better not tu use more than one <h1> tag
+
+Use h1 to h6 to identify document structure
+Using only h1 elements in a HTML document results in a flat document outline as heading element semantics are conveyed to users as per the numeric in the heading element tag name.
+
+Example code: using nested section and h1 elements
